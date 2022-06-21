@@ -19,7 +19,7 @@ brucebots = Client('link shortener bot',
              bot_token=BOT_TOKEN,
              workers=100)
 
-print("CODER: https://t.me/bruce_3_33")
+print("CODER: https://t.me/sarbudeen786")
 print("Bot Started Successfully")
 
 @brucebots.on_message(filters.command('start') & filters.private)
